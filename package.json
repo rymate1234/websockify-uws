@@ -1,5 +1,9 @@
 {
   "name": "websockify-uws",
+  "version": "0.1.0",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "finalhandler": "^1.0.0",
     "optimist": "^0.6.1",
