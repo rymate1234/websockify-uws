@@ -20,5 +20,5 @@ websockify [source_addr:]source_port target_addr:target_port
 
 AGPL (per original license)
 
-Copyright Joel Martin ® 2012
-Copyright Zeit, Inc. ® 2017
+- Copyright Joel Martin ® 2012
+- Copyright Zeit, Inc. ® 2017
