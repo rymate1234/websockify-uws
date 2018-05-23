@@ -1,5 +1,7 @@
 # websockify-uws
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeit/websockify-uws.svg)](https://greenkeeper.io/)
+
 [websockify](https://github.com/novnc/websockify/blob/master/other/js/websockify.js) by Joel Martin
 modified to work with the high-performance [uWebSockets](https://github.com/uWebSockets/uWebSockets)
 library, modernized and published to npm as an easy-to-use package.
